@@ -7,7 +7,7 @@ import { RiToolsFill } from "react-icons/ri"; // Example icon for "Other" stack
 import TechStack from "./TechStack";
 import Reveal from "./Reveal";
 import IconImage from "../public/tree.png";
-import FlutterImage from "../public/flutter.png";
+import FlutterImage from "../public/Flutter.png";
 import ReactImage from "../public/react.png";
 import ReduxImage from "../public/redux.png";
 import AwsImage from "../public/aws.png";
