@@ -9,6 +9,7 @@ import ConnectSection from "../components/ConnectSection";
 import Footer from "../components/Footer";
 import NavBar from "../components/Navbar";
 import Skills from "../components/Skills";
+import NewProject from "../components/NewProject";
 
 export const dynamic = "force-dynamic"
 
@@ -18,9 +19,11 @@ export default function Home() {
       <NavBar />
       <HeroSection />
       <AboutSection />
-      <MyProjectSection />
+      <NewProject/>
+      {/* <MyProjectSection /> */}
       <Services />
       <Skills/>
+      
       <Qualification />
       {/* <Experience /> */}
       <ConnectSection />
