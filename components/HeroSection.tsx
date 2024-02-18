@@ -3,6 +3,7 @@ import { motion } from "framer-motion"
 import Button from "./Button"
 import Reveal from "./Reveal"
 import { Link as ScrollLink } from "react-scroll"
+import SparklesName from "./SparklesName"
 
 export default function HeroSection() {
   return (
@@ -15,6 +16,7 @@ export default function HeroSection() {
           <h1 className="text-5xl leading-normal md:leading-[1.35em] md:text-8xl font-bold">
             Hi I&apos;m Vaibhav
           </h1>
+          
         </Reveal>
 
         <Reveal>

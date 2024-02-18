@@ -8,12 +8,14 @@ const projects = [
   {
     headingText: "Nextify Music Stream",
     imageSrc: ProjectImage1.src,
+    description:"This is best app to listen music",
     liveLink: "https://nextify-music-stream.vercel.app/",
     codeLink: "https://github.com/VaibhavYT/Nextify-Music-Stream"
   },
   {
     headingText: "Next Store",
     imageSrc: ProjectImage2.src,
+    description:"Go and buy what you want 👨‍💻❤️😁",
     liveLink: "https://next-store-nine-rust.vercel.app/",
     codeLink: "https://github.com/VaibhavYT/Next-Store"
   },
